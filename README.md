@@ -7,6 +7,3 @@ Requirement
 
 2) <a href='https://matplotlib.org/3.1.1/index.html'>matplotlib</a>
 <br>pip install matplotlib
-
-3) <a href='https://seaborn.pydata.org/'>Seaborn</a>
-<br>pip install seaborn
